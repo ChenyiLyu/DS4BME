@@ -1,2 +1,2 @@
 # DS4BME
-This is the [course syllabus](https://github.com/bcaffo/ds4bme_intro/blob/master/syllabus.md).
+This is the [course syllabus](https://raw.githubusercontent.com/bcaffo/ds4bme_intro/master/syllabus.md).
